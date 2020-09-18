@@ -1,0 +1,23 @@
+.clock {
+  background-color: black;
+  width: 500;
+  color: aliceblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+.clock .time {
+  font-size: 64px;
+  margin: auto;
+}
+.clock .date {
+  font-size: 24px;
+  margin: auto;
+}
+.text {
+  font-size: 50px;
+  font-family: "Courier New", Courier, monospace;
+  margin: auto;
+  background-color: brown;
+  padding-bottom: 20 px;
+}
